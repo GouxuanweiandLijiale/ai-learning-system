@@ -1,0 +1,1 @@
+print("Hello! ai_lab is working.")
